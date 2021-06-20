@@ -1,6 +1,6 @@
-# dailynews
+# DailyNews
 
-A new Flutter project.
+A Daily News Application with Top News Channels.
 
 ## Getting Started
 
